@@ -25,10 +25,10 @@ I am a novice front-end developer. In June 2020 I completed the “JavaScript De
 
 ### additional education ###
 
--**Lewis School of English,** Southampton, England (2006)
--**HTML Acacdemy** (May, 2018 - September, 2019)
--**Codecademy** (February 2019 - September, 2019)
--**The Rolling Scopes: «JavaScript Development Online»** (September, 2019 - June 2020)
+- **Lewis School of English,** Southampton, England (2006)
+- **HTML Acacdemy** (May, 2018 - September, 2019)
+- **Codecademy** (February 2019 - September, 2019)
+- **The Rolling Scopes: «JavaScript Development Online»** (September, 2019 - June 2020)
          
 ## skills ##
 HTML, HTML5, CSS, JavaScript, ECMAScript 5, REACT(beginner)
