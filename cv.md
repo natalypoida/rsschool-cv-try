@@ -1,6 +1,8 @@
  # Curriculum Vitae #
  
+ 
  ## Natalya Poida ##
+ 
  ![image](crop.jpg)
          
  ## my contacts ##       
