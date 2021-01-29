@@ -32,6 +32,7 @@ I am a novice front-end developer. In June 2020 I completed the “JavaScript De
          
 ## skills ##
 HTML, HTML5, CSS, JavaScript, ECMAScript 5, REACT(beginner)
+
 **Example of code:**
 ```html
 <div class="description" id="description">
