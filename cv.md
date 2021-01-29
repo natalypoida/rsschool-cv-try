@@ -1,9 +1,8 @@
  # Curriculum Vitae #
  
  ## Natalya Poida ##
-     ![image](https://avatars1.githubusercontent.com/u/47753832?s=400&u=f56f237705c128ac04ba7975cfb683df1efab6e8&v=4)
-          <img src="./assets/crop.jpg" alt="Natalya's photo" class="ava" />
-          
+ ![image](crop.jpg)
+         
  ## my contacts ##       
  - Phone: +7 951 458 3977          
  - E-mail: nataly.poida@gmail.com
