@@ -1,16 +1,16 @@
- # Curriculum Vitae #
+# Curriculum Vitae #
  
  
- ## Natalya Poida ##
+## Natalya Poida ##
  
  ![image](crop.jpg)
-         
- ## my contacts ##       
+        
+## my contacts ##       
  - Phone: +7 951 458 3977          
  - E-mail: nataly.poida@gmail.com
  - Telegram: https://t.me/natalypoida
  
- ## my projects ##
+## my projects ##
  - [Audiocall](https://audiocall.netlify.app/)           
  - [Movie Search](https://natalypoida-movie-search.netlify.app/)         
  - [Fancy Weather](https://natalypoida-fancy-weather.netlify.app/)
